@@ -12,7 +12,7 @@ A detail-oriented and quality-focused **Test Automation Engineer** with over **m
 🔹 Skilled in:
 - **Playwright (Python)** with **Pytest-BDD**
 - **Cypress (JavaScript)** with **Cucumber BDD**
-- **Selenium (NUnit, JavaScript)**
+- **Selenium (NUnit, C#, Python)**
 - **API testing** using **Postman** and automation scripts
 - **CI/CD integrations** via **GitHub Actions** and **Azure DevOps**
 
