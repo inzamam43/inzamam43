@@ -37,11 +37,11 @@ A detail-oriented and quality-focused **Test Automation Engineer** with over **m
 
 ### 🚀 Featured Projects
 
-#### 🔹 **Appex Now Marketplace (NetSol)**  
+#### 🔹 **Appex Now Marketplace **  
 - Automated end-to-end subscription and pricing flows.
 - Used Cypress with Docker for parallel test execution and reduced pipeline time.
 
-#### 🔹 **Flex Calculation Engine (NetSol)**  
+#### 🔹 **Flex Calculation Engine **  
 - Manual and automated validation of financial calculations.
 - Created Excel-based permutation logic, integrated with Azure DevOps.
 
