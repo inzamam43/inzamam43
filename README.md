@@ -7,7 +7,7 @@
 
 ---
 
-A detail-oriented and quality-focused **Test Automation Engineer** with over **muultiple years of experience** in designing, developing, and maintaining robust automation frameworks for **Web** and **API testing**.
+A detail-oriented and quality-focused **Test Automation Engineer** with over **multiple years of experience** in designing, developing, and maintaining robust automation frameworks for **Web** and **API testing**.
 
 🔹 Skilled in:
 - **Playwright (Python)** with **Pytest-BDD**
